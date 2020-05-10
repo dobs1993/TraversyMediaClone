@@ -496,9 +496,13 @@ img {
 
 #youtube-a {
   background: #DF292D;
+  width: 100%;
 }
 
 #youtube-a .container {
+  width: 100%;
+  text-align: center;
+  margin: auto;
   color: #fff;
 }
 
